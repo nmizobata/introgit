@@ -1,0 +1,31 @@
+[33mcommit 1a6b6e3666a689cfe84dfe17a7088b3039955bc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Norihito Mizobata <bluesky@mizobata.com>
+Date:   Tue Jan 28 17:19:59 2025 +0900
+
+    secont.txtの削除。
+    
+    これでうまくいくか？
+
+[33mcommit 77d592f4f3d17a4e465cd0fc812c85afaf1cf13a[m
+Author: Norihito Mizobata <bluesky@mizobata.com>
+Date:   Tue Jan 28 17:11:18 2025 +0900
+
+    second.txtを追加。
+    
+    ファイル追加時のgitのふるまいを確認。
+
+[33mcommit 93d185a6a6663467f9fec4663323845940146d6e[m
+Author: Norihito Mizobata <bluesky@mizobata.com>
+Date:   Tue Jan 28 17:09:51 2025 +0900
+
+    first.txtを追加。
+    
+    ファイル追加時のGitのふるまいを確認する。
+
+[33mcommit 019771b8f1f71980a6902bd84227bff553aa562a[m
+Author: Norihito Mizobata <bluesky@mizobata.com>
+Date:   Tue Jan 28 17:06:56 2025 +0900
+
+    git初期登録。
+    
+    現状を登録。
